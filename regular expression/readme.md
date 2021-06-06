@@ -30,7 +30,7 @@
     * {m,} 出现至少m次
     * {m, n} 出现m到n次
 
-![img](.\正则元字符.png)
+![img](./metacharacters.png)
 
 # 贪婪
 
