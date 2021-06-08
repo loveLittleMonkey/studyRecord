@@ -110,3 +110,13 @@ console.log(count); // 1
 count += 1; // Error — 只有 incrementer.js 可以改变这个值
 ```
 
+
+
+# 其他参考文献
+
+[阮一峰 node.js 如何处理 ES6模块](https://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html)
+
+[ES6模块与CommonJS的区别](https://www.jianshu.com/p/da97ec65d2a0)
+
+[深入学习CommonJS和ES6模块化规范](https://zhuanlan.zhihu.com/p/346405395)
+
