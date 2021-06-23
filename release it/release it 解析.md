@@ -246,9 +246,15 @@ incrementVersion
 
 
 
+isCI 判断能否启动对话命令
 
 
 
+```
+git tag -d tag-name
+
+git push origin :refs/tags/tag-name
+```
 
 
 
